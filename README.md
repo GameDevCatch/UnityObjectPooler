@@ -19,7 +19,7 @@ Takes the supplied args and creates a pool with it.
 
 1. Spawn(GameObject prefab, Vector3 pos, Quaternion rot)
 
-Instead of Instantiate
+Instead of Instantiate.
 
 1. Release(GameObject obj)
 
