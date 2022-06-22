@@ -6,8 +6,9 @@ Simple object pooler using Unity's new 2021 object pooling API
 
 1. Create An Empty Gameobject
 2. Apply ObjectPooler Script
-3. Call API Using Its Singleton
-4. Profit!
+3. Make Sure To Put Using Catch.Utils In Your Script
+4. Call API Using Its Singleton
+5. Profit!
 
 ## HOW TO USE
 
