@@ -119,7 +119,6 @@ namespace Catch.Utils
         private void OnDestroyFromPool(GameObject instance)
         {
             Destroy(instance.gameObject);
-            print("s");
         }
         #endregion
     }
